@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# ToDo CLI App
+
+## Консольное приложение для создания списков задач и контроля за их выполнением.
+
+`maked without love by Аскар, ИСП-241.`
