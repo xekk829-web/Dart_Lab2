@@ -21,8 +21,7 @@ void addTodo(List<Todo> todos) {
     return;
   }
 
-  int newId = todos.isEmpty ? 1 : todos.last.id + 1;
-  todos.add(Todo(id: newId, title: input.trim()));
+  todos.add(Todo(title: input.trim()));
   print('Задача добавлена!');
 }
 
